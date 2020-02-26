@@ -12916,4 +12916,16 @@ pokedex.pokemon = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 	},
+		duraludon: {
+		num: 483,
+		species: "Duraludon",
+		types: ["Steel", "Dragon"],
+		gender: "N",
+		baseStats: {hp: 70, atk: 95, def: 115, spa: 120, spd: 50, spe: 85},
+		abilities: {0: "Heavy Metal", 1:"Light Metal", H: "Stalwart"},
+		heightm: 5.4,
+		weightkg: 683,
+		color: "White",
+		eggGroups: ["Undiscovered"],
+	},
 };
