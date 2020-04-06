@@ -12991,7 +12991,7 @@ pokedex.pokemon = {
 	},
 		drednaw: {
 		num: 834,
-		species: "Dreadnaw",
+		species: "Drednaw",
 		types: ["Water", "Rock"],
 		gender: "N",
 		baseStats: {hp: 70, atk: 95, def: 115, spa: 120, spd: 50, spe: 85},
