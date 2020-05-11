@@ -12956,7 +12956,7 @@ pokedex.pokemon = {
 		inteleon: {
 		num: 818,
 		species: "Inteleon",
-		types: ["Fire"],
+		types: ["Water"],
 		gender: "N",
 		baseStats: {hp: 70, atk: 95, def: 115, spa: 120, spd: 50, spe: 85},
 		abilities: {0: "Torrent", H: "Gale Wings"},
