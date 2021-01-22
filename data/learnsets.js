@@ -56800,6 +56800,42 @@ pokedex.learnsets = {
 	weezinggalar: {learnset: {
 	acrobatics: ["7M"],
 	}},
+	urshifu: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	urshifurapid: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	glastrier: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	spectrier: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	calyrex: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	calyrexice: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	calyrexshadow: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	blacephalon: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	stakataka: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	naganadel: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	regieleki: {learnset: {
+	acrobatics: ["7M"],
+	}},
+	regidrago: {learnset: {
+	acrobatics: ["7M"],
+	}},
 	//Hi! I'm an Easter Egg. By FrancisKet
 		caloret: {learnset: {
 		aerialace: ["7M", "6M", "5M", "4M", "3M"],
@@ -56892,4 +56928,5 @@ pokedex.learnsets = {
 		toxic: ["7M", "6M", "5M", "4M", "3M"],
 		uproar: ["6T", "5T", "4T"],
 	}},
+
 };
